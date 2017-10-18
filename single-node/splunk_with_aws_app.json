@@ -7,9 +7,7 @@
    "Type": "String",
    "Default": "c4.2xlarge",
    "AllowedValues": [
-    "c4.2xlarge",
-    "c4.4xlarge",
-    "c4.8xlarge"
+    "t2.micro"
    ],
    "ConstraintDescription": "must be a valid EC2 instance type."
   },
